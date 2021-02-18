@@ -20,4 +20,4 @@ https://github.com/bradimbach/media_reach_estimation_model/blob/master/viewing_p
 
 There are many terrific data reporting and visualization tools and platforms on the market like Looker, Tableau, Power Pivot, etc. Often, though data consumers need more inline explanations and ability to interact with data in a very controlled way. Good examples of this can be found in the field of Data Journalism on sites like nytimes.com that have published great hybrid article/data visualization content that explains data to readers and allows them to interact with it.
 
-<img src="/dataviz1.png" width="400">
+<img src="/dataviz1.png" width="800">
