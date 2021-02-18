@@ -10,6 +10,10 @@ Generation of taxomony and classification of of television and on-demand program
 
 https://github.com/bradimbach/viewer_content_engagement
 
+Interactive tool:
+
+https://content-consumption.datafuelx-secure.com/
+
 ### Viewing Probability Reach Model
 
 Flexible statistical model for estimating reach (number of unique people exposed) for media campaigns. Examples would be number of people in a specific target population that are expected to be reached by distribution of ads across programming content, outdoor billboards, etc.
@@ -18,6 +22,12 @@ https://github.com/bradimbach/media_reach_estimation_model/blob/master/viewing_p
 
 ### Interactive Data and Statistical Visualizations
 
-There are many terrific data reporting and visualization tools and platforms on the market like Looker, Tableau, Power Pivot, etc. Often, though data consumers need more inline explanations and ability to interact with data in a very controlled way. Good examples of this can be found in the field of Data Journalism on sites like nytimes.com that have published great hybrid article/data visualization content that explains data to readers and allows them to interact with it.
+There are terrific data reporting and visualization tools and platforms on the market like Looker, Tableau, Power Pivot, etc., but sometimes consumers need more inline explanations and ability to interact with data in a very controlled way. 
+
+
+Good examples of this can be found in the field of Data Journalism on sites like nytimes.com that have published great hybrid article/data visualization content that explains data to readers and allows them to interact with it.
+
+
+This same approach can be applied to the business analysis environment where interactive data "articles" can help users understand the data and extract important information from it.
 
 <img src="/dataviz1.png" width="800">
